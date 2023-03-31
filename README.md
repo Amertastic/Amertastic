@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amer. I'm a Mechanical Engineer and Data Scientist with experties in the field of Renewable Energy Systems.
+- 👋 Hi, I’m Amer. I'm a Data Scientist and Mechanical Engineer with experties in the field of Renewable Energy Systems.
 - 👀 I’m interested in Renewable Energy (of course), AI and Machine Learning
 - 🌱 I’m currently learning UI so that I can make some beautiful looking apps and programs one day. 
 
