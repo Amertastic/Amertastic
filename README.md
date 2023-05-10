@@ -13,11 +13,7 @@ I am a  Data Scientist and Mechanical Engineer with experties in the field of Re
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/> 
 </div>
