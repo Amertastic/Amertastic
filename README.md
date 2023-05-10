@@ -5,6 +5,8 @@ I am a  Data Scientist and Mechanical Engineer with experties in the field of Re
 - 👀 I’m interested in Renewable Energy (of course), AI and Machine Learning
 - 🌱 I’m currently learning UI so that I can make some beautiful looking apps and programs one day. 
 
+---
+
 ### 🛠 Languages and Tools :
 
 <div>
